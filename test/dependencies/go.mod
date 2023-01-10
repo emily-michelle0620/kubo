@@ -18,7 +18,7 @@ require (
 	github.com/ipfs/hang-fds v0.1.0
 	github.com/ipfs/iptb v1.4.0
 	github.com/ipfs/iptb-plugins v0.3.0
-	github.com/ipld/go-ipld-prime v0.17.0
+	github.com/ipld/go-ipld-prime v0.18.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
 	github.com/jbenet/go-random-files v0.0.0-20190219210431-31b3f20ebded
 	github.com/libp2p/go-libp2p v0.22.0
@@ -136,7 +136,7 @@ require (
 	github.com/ipfs/go-unixfsnode v1.4.0 // indirect
 	github.com/ipfs/go-verifcid v0.0.1 // indirect
 	github.com/ipfs/interface-go-ipfs-core v0.7.0 // indirect
-	github.com/ipld/go-codec-dagpb v1.4.0 // indirect
+	github.com/ipld/go-codec-dagpb v1.5.0 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
 	github.com/jbenet/go-temp-err-catcher v0.1.0 // indirect
 	github.com/jbenet/goprocess v0.1.4 // indirect
